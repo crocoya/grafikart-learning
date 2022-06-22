@@ -30,3 +30,4 @@ draw(new TwoDimensionPoint());
 // Entre type et interface on peut faire plusieurs choses en communs
 // Type : ne sont pas ouvert, peut pas modifier après être défini.
 // Interface : peuvent être étendu, explicitement implémenté une class.
+//
