@@ -5,5 +5,5 @@
     "noEmitOnError": true,
     "strict": true
   },
-  "files": ["src/app.ts", "src/classes.ts"]
+  "files": ["src/app.ts", "src/classes.ts", "src/interface.ts"]
 }
