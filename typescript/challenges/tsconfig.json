@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "ES2015",
+    "noEmitOnError": true,
+    "strict": true,
+    "declaration": true,
+    "moduleResolution": "node"
+  },
+  "files": ["src/pick.ts"],
+  "include": ["src/types/**/*"]
+}
