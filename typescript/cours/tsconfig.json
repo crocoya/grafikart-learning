@@ -12,7 +12,8 @@
     "src/classes.ts",
     "src/interface.ts",
     "src/tuple-enum.ts",
-    "src/declaration.ts"
+    "src/declaration.ts",
+    "src/type-ut.ts"
   ],
   "include": ["src/types/**/*"]
 }
