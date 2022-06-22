@@ -21,6 +21,27 @@
 // function printId(id: number | string): void {
 //   console.log(id.toString());
 // }
+// function printId(id: string | number) {
+//   if (typeof id == 'number') {
+//     console.log((id * 3).toString());
+//   } else {
+//     console.log(id.toUpperCase());
+//   }
+// }
+// function example(a: string | string[]) {
+//   if (Array.isArray(a)) {
+//     return a[0];
+//   }
+//   return;
+// }
+// function isDate(a: any): a is Date {
+//   return a instanceof Date;
+// }
+// function example2(a: Date | HTMLInputElement) {
+//   if (isDate(a)) {
+//     a;
+//   }
+// }
 const compteur = document.querySelector('#compteur');
 let i = 0;
 const increment = (e) => {
