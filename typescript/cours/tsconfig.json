@@ -5,14 +5,14 @@
     "noEmitOnError": true,
     "strict": true,
     "declaration": true,
-    "moduleResolution": "node",
-    "noUncheckedIndexedAccess": false
+    "moduleResolution": "node"
   },
   "files": [
     "src/app.ts",
     "src/classes.ts",
     "src/interface.ts",
-    "src/tuple-enum.ts"
+    "src/tuple-enum.ts",
+    "src/declaration.ts"
   ],
   "include": ["src/types/**/*"]
 }
