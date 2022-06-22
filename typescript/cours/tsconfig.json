@@ -8,6 +8,11 @@
     "moduleResolution": "node",
     "noUncheckedIndexedAccess": false
   },
-  "files": ["src/app.ts"],
+  "files": [
+    "src/app.ts",
+    "src/classes.ts",
+    "src/interface.ts",
+    "src/tuple-enum.ts"
+  ],
   "include": ["src/types/**/*"]
 }
